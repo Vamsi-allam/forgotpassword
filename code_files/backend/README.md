@@ -2,8 +2,6 @@
 
 A comprehensive authentication system built with Spring Boot and React, featuring login, registration, and password recovery functionality with email OTP verification.
 
-![Password Recovery System](https://via.placeholder.com/800x400?text=Password+Recovery+System)
-
 ## 🚀 Features
 
 ### Core Features
